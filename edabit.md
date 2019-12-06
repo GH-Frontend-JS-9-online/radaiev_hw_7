@@ -4,7 +4,7 @@
 
 * Challenge 1
 	* URL:(https://edabit.com/challenge/Ju7AK9rAGjz86hjxo)
-	* Solution:
+	* Solution:(https://www.dropbox.com/home?preview=%D0%A4%D0%B0%D0%BA%D1%82%D0%BE%D1%80%D0%B8%D0%B0%D0%BB.png)
 * Challenge 2
 	* URL:
 	* Solution:
